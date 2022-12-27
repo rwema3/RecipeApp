@@ -21,11 +21,12 @@ packages:
       name: characters
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "1.1.0-nullsafety.3"
+    version: "2.3.0-nullsafety.3"
   charcode:
     dependency: transitive
     description:
       name: charcode
+      url: "https://pub.dartlang.org"
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.2.0-nullsafety.1"
