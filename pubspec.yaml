@@ -3,15 +3,15 @@ description: A new Flutter project.
 
 publish_to: "none"
 
-version: 1.0.0+1
+version: 2.1.0+1
 
 environment:
-  sdk: ">=2.7.0 <3.0.0"
+  sdk: ">=3.9.0 <3.0.0"
 
 dependencies:
   flutter:
     sdk: flutter
-  http: ^0.12.2
+  http: ^0.15.3
   webview_flutter: ^3.0.4
 
   cupertino_icons: ^1.0.0
